@@ -268,6 +268,8 @@ button:hover{
     }
     .why h1{
         font-size: 2rem;
+        width: 80%;
+        margin: auto;
     }
     .benefits{
         flex-direction: column;
